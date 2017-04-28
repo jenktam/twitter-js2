@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jenktam/twitter-js2/issues"
   },
-  "homepage": "https://github.com/jenktam/twitter-js2#readme"
+  "homepage": "https://github.com/jenktam/twitter-js2#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
